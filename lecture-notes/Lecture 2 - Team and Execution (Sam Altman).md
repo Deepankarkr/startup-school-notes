@@ -1,8 +1,6 @@
-Here is the **compact, print-friendly version** with same content:
-
----
-
 # **Lecture 2: Team and Execution (Sam Altman)** 
+
+On the early days.. answer question like . why this idea? why you ? why now?
 
 ---
 
