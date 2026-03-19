@@ -1,0 +1,25 @@
+﻿# Lecture Notes
+
+## Table of Contents
+
+1. [Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)](lecture-notes/Lecture%201%20-%20How%20to%20Start%20a%20Startup%20%28Sam%20Altman%2C%20Dustin%20Moskovitz%29.md)
+2. [Lecture 2 - Team and Execution (Sam Altman)](lecture-notes/Lecture%202%20-%20Team%20and%20Execution%20%28Sam%20Altman%29.md)
+3. [Lecture 3 - Before the Startup (Paul Graham)](lecture-notes/Lecture%203%20-%20Before%20the%20Startup%20%28Paul%20Graham%29.md)
+4. [Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung)](lecture-notes/Lecture%204%20-%20Building%20Product%2C%20Talking%20to%20Users%2C%20and%20Growing%20%28Adora%20Cheung%29.md)
+5. [Lecture 5 - Competition is for Losers (Peter Thiel)](lecture-notes/Lecture%205%20-%20Competition%20is%20for%20Losers%20%28Peter%20Thiel%29.md)
+6. [Lecture 6 - Growth (Alex Schultz)](lecture-notes/Lecture%206%20-%20Growth%20%28Alex%20Schultz%29.md)
+7. [Lecture 7 - How to Build Products Users Love (Kevin Hale)](lecture-notes/Lecture%207%20-%20How%20to%20Build%20Products%20Users%20Love%20%28Kevin%20Hale%29.md)
+8. [Lecture 8 - How to Get Started, Doing Things that Don't Scale, Press](lecture-notes/Lecture%208%20-%20How%20to%20Get%20Started%2C%20Doing%20Things%20that%20Don%27t%20Scale%2C%20Press.md)
+9. [Lecture 9 - How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)](lecture-notes/Lecture%209%20-%20How%20to%20Raise%20Money%20%28Marc%20Andreessen%2C%20Ron%20Conway%2C%20Parker%20Conrad%29.md)
+10. [Lecture 10 - Culture (Brian Chesky, Alfred Lin)](lecture-notes/Lecture%2010%20-%20Culture%20%28Brian%20Chesky%2C%20Alfred%20Lin%29.md)
+11. [Lecture 11 - Hiring and Culture, Part 2 (Patrick and John Collison, Ben Silbermann)](lecture-notes/Lecture%2011%20-%20Hiring%20and%20Culture%2C%20Part%202%20%28Patrick%20and%20John%20Collison%2C%20Ben%20Silbermann%29.md)
+12. [Lecture 12 - Building for the Enterprise (Aaron Levie)](lecture-notes/Lecture%2012%20-%20Building%20for%20the%20Enterprise%20%28Aaron%20Levie%29.md)
+13. [Lecture 13 - How to be a Great Founder (Reid Hoffman)](lecture-notes/Lecture%2013%20-%20How%20to%20be%20a%20Great%20Founder%20%28Reid%20Hoffman%29.md)
+14. [Lecture 14 - How to Operate (Keith Rabois)](lecture-notes/Lecture%2014%20-%20How%20to%20Operate%20%28Keith%20Rabois%29.md)
+15. [Lecture 15 - How to Manage (Ben Horowitz)](lecture-notes/Lecture%2015%20-%20How%20to%20Manage%20%28Ben%20Horowitz%29.md)
+16. [Lecture 16 - How to Run a User Interview (Emmett Shear)](lecture-notes/Lecture%2016%20-%20How%20to%20Run%20a%20User%20Interview%20%28Emmett%20Shear%29.md)
+17. [Lecture 17 - How to Design Hardware Products (Hosain Rahman)](lecture-notes/Lecture%2017%20-%20How%20to%20Design%20Hardware%20Products%20%28Hosain%20Rahman%29.md)
+18. [Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy)](lecture-notes/Lecture%2018%20-%20Legal%20and%20Accounting%20Basics%20for%20Startups%20%28Kirsty%20Nathoo%2C%20Carolynn%20Levy%29.md)
+19. [Lecture 19 - Sales and Marketing; How to Talk to Investors (Tyler Bosmeny; YC Partners)](lecture-notes/Lecture%2019%20-%20Sales%20and%20Marketing%3B%20How%20to%20Talk%20to%20Investors%20%28Tyler%20Bosmeny%3B%20YC%20Partners%29.md)
+20. [Lecture 20 - Later-stage Advice (Sam Altman)](lecture-notes/Lecture%2020%20-%20Later-stage%20Advice%20%28Sam%20Altman%29.md)
+21. [YC Startup Talk for Students, 2022](lecture-notes/YC%20Startup%20Talk%20for%20Students%2C%202022.md)
